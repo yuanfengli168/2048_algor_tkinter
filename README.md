@@ -1,6 +1,6 @@
 # 2048 game algorithm and GUI
 # About:
-This small games gives you the same game experience with 2048, the algorithm is not the best, but it is a good way to practice and have fun with.
+This small game gives you the same game experience with 2048, the algorithm is not the best, but it is a good way to practice and have fun.
 - Feel free to leave your thoughts and comments.
 - the website of original game: http://2048game.com/
 
