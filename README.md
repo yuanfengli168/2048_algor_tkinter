@@ -17,9 +17,11 @@ This small games gives you the same game experience with 2048, the algorithm is 
 1. when you open this, it should looked like this:
 
 ![init](images/initialize_game.png)
+
 2. when the game over like this, in which you can not make anymovement it will be like this:
 
 ![game over](images/gameover_only.png)
+
 3. when the game is over, there will be a small messagebox asking whether you want to quit or not. (choose carefully)
 
 ![message](images/messagebox_only.png)
